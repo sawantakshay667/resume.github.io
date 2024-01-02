@@ -43,5 +43,5 @@ what you are doing and are changing the names in HTML files too.
 
 Designed by Akshay A Sawant
 Github https://github.com/sawantakshay667/resume
-Live Website https://sawantakshay667.github.io/resume/
+Live Website https://sawantakshay667.github.io/resume.github.io/
 
